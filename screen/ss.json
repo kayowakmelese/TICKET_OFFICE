@@ -1,0 +1,84 @@
+[
+    {
+        "CompanyId": "a91f7888-cd80-4207-a8b4-8131e74dcf8a",
+        "CustomerId": null,
+        "Passengers": [
+            [Object
+            ]
+        ],
+        "Route": {
+            "CompanyId": "a91f7888-cd80-4207-a8b4-8131e74dcf8a",
+            "DestinationId": "d0a9729d-4430-4d41-928a-c3ebd9a78dcb",
+            "StartId": "b5be6143-6261-49ba-9020-1861cc38e8a1",
+            "createdAt": "2021-11-12T05:46:51.597Z",
+            "createdBy": "3175d066-5fe6-4512-bc4e-7b87f645e40d",
+            "destnationBranchName": "Jimma",
+            "distanceInkilometer": "350",
+            "id": "6d724336-e251-45eb-9d0c-54cdc66e40d1",
+            "startBranchName": "Addis Ababa",
+            "updatedAt": "2021-11-12T05:46:51.597Z",
+            "updatedBy": null
+        },
+        "RouteId": "6d724336-e251-45eb-9d0c-54cdc66e40d1",
+        "Seats": [
+            [Object
+            ]
+        ],
+        "Travel": {
+            "CompanyId": "a91f7888-cd80-4207-a8b4-8131e74dcf8a",
+            "RouteId": "6d724336-e251-45eb-9d0c-54cdc66e40d1",
+            "SeatSettingId": "dd2826d1-5e82-46cb-9541-7409dbed467d",
+            "active": true,
+            "createdAt": "2021-11-12T05:47:12.764Z",
+            "createdBy": "3175d066-5fe6-4512-bc4e-7b87f645e40d",
+            "defaultPrice": 455,
+            "firstInstance": false,
+            "id": "14a23621-f5f6-42f9-b3aa-5a6dadd18527",
+            "maximumDateSlot": 15,
+            "numberOfSeat": 51,
+            "startTime": "11:00:00",
+            "timeSection": "Morning",
+            "updatedAt": "2021-11-12T05:47:16.593Z",
+            "updatedBy": null
+        },
+        "TravelDateSlot": {
+            "CompanyId": "a91f7888-cd80-4207-a8b4-8131e74dcf8a",
+            "RouteId": "6d724336-e251-45eb-9d0c-54cdc66e40d1",
+            "TravelId": "14a23621-f5f6-42f9-b3aa-5a6dadd18527",
+            "active": true,
+            "canceled": false,
+            "createdAt": "2021-11-12T05:47:15.957Z",
+            "createdBy": null,
+            "day": "13",
+            "fullDate": "2021-11-13",
+            "id": "93f15081-0f8f-43cb-a871-e66b9a61295b",
+            "maxSeatCapacity": 51,
+            "month": "11",
+            "remark": null,
+            "seatFull": false,
+            "slotPrice": 455,
+            "updatedAt": "2021-11-12T05:47:15.957Z",
+            "updatedBy": null,
+            "year": "2021"
+        },
+        "TravelDateSlotId": "93f15081-0f8f-43cb-a871-e66b9a61295b",
+        "TravelId": "14a23621-f5f6-42f9-b3aa-5a6dadd18527",
+        "UserId": "5f26576a-5a44-4194-bc74-e01c318d8287",
+        "bookConfirmed": true,
+        "bookNumber": "NQ7Ti73s3X",
+        "bookPrice": 455,
+        "bookStatus": "confirmed",
+        "bookTempExpiryAt": null,
+        "bookTempRAt": null,
+        "bookedAt": "2021-11-12T17:11:02.533Z",
+        "bookedBy": "company",
+        "createdAt": "2021-11-12T17:11:02.534Z",
+        "customerPhone": null,
+        "id": "40d5042b-442b-4d75-b838-fcf15c58f21c",
+        "isBookTempR": false,
+        "isPayed": null,
+        "paymentMethod": "direct",
+        "trsCiSpay": false,
+        "updatedAt": "2021-11-12T17:11:02.534Z"
+    }
+]

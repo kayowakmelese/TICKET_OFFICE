@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009325243664",
+    "project_id": "busticketoffice",
+    "storage_bucket": "busticketoffice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009325243664:android:b456e78aecc5a9133b7995",
+        "android_client_info": {
+          "package_name": "com.ticketoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009325243664-fjdfr0fgtoainec5tipu9v6ae9bmuvdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticketoffice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1009325243664-ltldh9udsoks506nph3n25ag19m3qeke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5os6pXvgNKbW26BqbDe-t51UaOvfbH8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009325243664-ltldh9udsoks506nph3n25ag19m3qeke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

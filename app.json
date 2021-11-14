@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "TICKET_OFFICE",
-    "slug": "TICKET_OFFICE",
+    "name": "BUSTICKET",
+    "slug": "BUSTICKET",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "TICKET_OFFICE"
+  "name": "BUSTICKET"
 }
